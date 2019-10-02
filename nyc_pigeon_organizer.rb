@@ -8,5 +8,6 @@ data.each do |key, value|
         new_hash = {}
       end
       
-      if 
+      if !new_hash[name][key]
+        
 end
