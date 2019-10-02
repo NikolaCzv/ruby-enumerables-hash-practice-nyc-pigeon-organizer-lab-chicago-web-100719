@@ -9,5 +9,5 @@ data.each do |key, value|
       end
       
       if !new_hash[name][key]
-        
+        new_hash[]
 end
