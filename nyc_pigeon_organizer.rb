@@ -6,4 +6,5 @@ data.each do |key, value|
       
       if !new_hash[name]
         new_hash = {}
+      end
 end
