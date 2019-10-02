@@ -4,5 +4,6 @@ data.each do |key, value|
   value.each do |new value, names|
     names.each do |name|
       
-      if !new_hash = 
+      if !new_hash[name]
+        new_hash = {}
 end
